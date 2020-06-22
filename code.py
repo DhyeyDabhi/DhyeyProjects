@@ -1,4 +1,4 @@
-import random                                                                   #require it for genrating random index for "random" mode
+import random                                                                  #require it for genrating random index for "random" mode
 
 
 #function to take only integer input
