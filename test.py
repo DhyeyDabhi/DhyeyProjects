@@ -1,6 +1,7 @@
 from unittest.mock import patch
 import unittest
 
+
 import code
 
 #Contains 8 tests as following:
